@@ -318,17 +318,20 @@ The student selects their typical responsibilities:
 >
 > **YOUR CAPACITY**
 >
+> Calendar
+> 
 > **84%**
 >
 > ████████████████░░░░
 >
 > ⚠️ Approaching overload
 >
-> Academic — 42%
-> Work — 18%
+> Academic — 22%
+> Work — 5%
 > Mental — 12%
-> Social — 7%
-> Physical — 5%
+> Physical - 18%
+> Social — 23%
+> Errands - 4%
 >
 > **[ Rebalance My Day ]**
 
@@ -338,7 +341,26 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 4 — Add Task
+## Screen 4 — Task Overview
+
+> **Tasks**
+>
+> Calendar
+>
+> Pending '[3]' Done '[2]' Remaining '[3.0h]'
+>
+> Meet up with a friend
+> Gym
+> Grocery Shopping
+> ~~Reply to Emails~~
+> ~~Read Chapter 4~~
+>
+> **[ Add Task ]**
+
+**Purpose:** Show the details of the tasks
+
+---
+## Screen 5 — Add Task
 
 > **Add Task**
 >
@@ -368,7 +390,7 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 5 — AI Rebalance
+## Screen 6 — AI Rebalance
 
 > ⚠️ **OVERLOAD DETECTED**
 >
@@ -380,11 +402,11 @@ The student selects their typical responsibilities:
 > Programming Assignment
 > Due tomorrow
 >
-> 🟡 **MOVE**
-> Gym → 6:30 PM today
->
 > 🟢 **POSTPONE**
 > Grocery Shopping → Friday
+>
+> 🟡 **COMBINE**
+> Gym + Meet up with friends
 >
 > **Estimated new load:**
 >
@@ -398,7 +420,35 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 6 — Recovery Recommendation
+## Screen 7 — Rebalanced Announcment
+
+> **Your day has been rebalanced**
+> **71%**
+>
+> Changes applied
+>
+> Programming Assignment
+> Kept - due tomorrow
+>
+> Grocery Shopping
+> Postponed - Friday
+>
+> Gym + Meet up with friends
+> Combined - workout together
+>
+> **YOU FREED UP**
+> **2 HOURS**
+> **for yourself today**
+>
+> **[Continue]**
+
+**Purpose:** Provide positive reinforcement by summarizing the adjusted schedule and emphasizing the immediate benefit (e.g., freeing up 2 hours)
+
+![AIRebalance](screenshots/AIRebalance.png)
+
+---
+
+## Screen 8 — Recovery Recommendation
 
 > 🌱 **TIME TO RECOVER**
 >
@@ -423,6 +473,33 @@ The student selects their typical responsibilities:
 ---
 
 ![Rebalanced](screenshots/Rebalanced.png)
+
+---
+
+## Screen 9 — Profile
+
+> **Profile**
+>
+> Jordan Lee
+> jordan@gmail.com
+>
+> Task Done `[142]` Streak `[7d]` Avg Load `[76%]`
+>
+> Load this week
+>
+> **Daily Check-in**
+>
+> Notification
+> Goals & Limits
+> Weekly Report
+> Privacy
+> Help & Feedback
+>
+> **[ Sign Out]**
+
+**Purpose:** Offer a comprehensive view of the student's historical stats and habits to encourage long-term self-reflection and sustained balance.
+
+![Recovery](screenshots/Recovery.png)
 
 ---
 
