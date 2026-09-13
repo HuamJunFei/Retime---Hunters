@@ -327,10 +327,15 @@ The student selects their typical responsibilities:
 > ⚠️ Approaching overload
 >
 > Academic — 22%
+>
 > Work — 5%
+>
 > Mental — 12%
+>
 > Physical - 18%
+>
 > Social — 23%
+>
 > Errands - 4%
 >
 > **[ Rebalance My Day ]**
@@ -347,12 +352,16 @@ The student selects their typical responsibilities:
 >
 > Calendar
 >
-> Pending '[3]' Done '[2]' Remaining '[3.0h]'
+> Pending `[3]` Done `[2]` Remaining `[3.0h]`
 >
 > Meet up with a friend
+> 
 > Gym
+>
 > Grocery Shopping
+>
 > ~~Reply to Emails~~
+>
 > ~~Read Chapter 4~~
 >
 > **[ Add Task ]**
@@ -401,13 +410,16 @@ The student selects their typical responsibilities:
 > We found 3 possible changes:
 >
 > 🔴 **KEEP**
+>
 > Programming Assignment
 > Due tomorrow
 >
 > 🟢 **POSTPONE**
+>
 > Grocery Shopping → Friday
 >
 > 🟡 **COMBINE**
+>
 > Gym + Meet up with friends
 >
 > **Estimated new load:**
@@ -430,12 +442,15 @@ The student selects their typical responsibilities:
 > Changes applied
 >
 > Programming Assignment
+>
 > Kept - due tomorrow
 >
 > Grocery Shopping
+>
 > Postponed - Friday
 >
 > Gym + Meet up with friends
+>
 > Combined - workout together
 >
 > **YOU FREED UP**
@@ -490,9 +505,13 @@ The student selects their typical responsibilities:
 > **Daily Check-in**
 >
 > Notification
+>
 > Goals & Limits
+>
 > Weekly Report
+>
 > Privacy
+>
 > Help & Feedback
 >
 > **[ Sign Out]**
