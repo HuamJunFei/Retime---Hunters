@@ -359,6 +359,8 @@ The student selects their typical responsibilities:
 
 **Purpose:** Show the details of the tasks
 
+![Dashboard](screenshots/Task.png)
+
 ---
 ## Screen 5 — Add Task
 
