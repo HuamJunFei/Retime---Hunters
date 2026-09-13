@@ -4,7 +4,7 @@
 
 **Team:** Lim Jia Yu, Huam Jun Fei, Chai Juan Zhe, Nicholas Tong Xun \
 **Problem Statement:** Stress & Workload Manager \
-**Video Presentation:** [Unlisted YouTube Link] \
+**Video Presentation:** [YouTube Link](https://youtu.be/q7mJ5tVIo3s) \
 **Presentation Slides:** [Canva Presentation](https://canva.link/2ljpoewv2nrroww)
 
 ---
