@@ -422,7 +422,7 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 7 — Rebalanced Announcment
+## Screen 7 — Rebalanced Announcement
 
 > **Your day has been rebalanced**
 > **71%**
@@ -446,7 +446,7 @@ The student selects their typical responsibilities:
 
 **Purpose:** Provide positive reinforcement by summarizing the adjusted schedule and emphasizing the immediate benefit (e.g., freeing up 2 hours)
 
-![AIRebalance](screenshots/AIRebalance.png)
+![Rebalanced](screenshots/Rebalanced.png)
 
 ---
 
@@ -474,8 +474,6 @@ The student selects their typical responsibilities:
 
 ---
 
-![Rebalanced](screenshots/Rebalanced.png)
-
 ---
 
 ## Screen 9 — Profile
@@ -501,7 +499,7 @@ The student selects their typical responsibilities:
 
 **Purpose:** Offer a comprehensive view of the student's historical stats and habits to encourage long-term self-reflection and sustained balance.
 
-![Recovery](screenshots/Recovery.png)
+![Profile](screenshots/Profile.png)
 
 ---
 
